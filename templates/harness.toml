@@ -1,0 +1,15 @@
+# Build Harness settings. Every key is optional; these are the defaults.
+[harness]
+graph = "docs/graph/graph.md"
+catalog = "docs/graph/catalog.tsv"
+specs = "specs"
+gates = "harness/gates.tsv"
+changelog = "changelog.md"
+# Each green row proves itself on every dimension, or says why not with n/a:<reason>.
+proof_dimensions = ["logical", "contract", "safety"]
+# Dimensions that can never be n/a.
+proof_required = ["logical"]
+tests_dir = "tests"
+# If source changed since a node started, a test must change too.
+source_globs = ["src/**", "lib/**", "app/**"]
+test_globs = ["tests/**", "test/**", "**/*.test.*", "**/*_test.*", "**/test_*.py"]

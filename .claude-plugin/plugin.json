@@ -1,0 +1,10 @@
+{
+  "name": "build-harness",
+  "version": "0.1.0",
+  "description": "A Claude Code harness for building real products with agents: a dependency-gated build graph, gates that block bad pushes, an adversarial verifier, and decision and lesson memory. Used to build Kova, Insightsflow and eight public AI projects.",
+  "author": { "name": "Biplob Chakraborty", "url": "https://biplob819.github.io" },
+  "homepage": "https://biplob819.github.io/projects/build-harness/",
+  "repository": "https://github.com/biplob819/build-harness",
+  "license": "Apache-2.0",
+  "keywords": ["harness-engineering", "claude-code", "agents", "quality-gates", "spec-driven-development", "tdd"]
+}

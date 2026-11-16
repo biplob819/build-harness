@@ -1,0 +1,12 @@
+{
+  "name": "build-harness",
+  "owner": { "name": "Biplob Chakraborty", "url": "https://github.com/biplob819" },
+  "description": "Build Harness: gates, roles and memory for building products with Claude Code.",
+  "plugins": [
+    {
+      "name": "build-harness",
+      "source": "./",
+      "description": "Dependency-gated build graph, pre-push gates, an adversarial verifier, and decision and lesson memory."
+    }
+  ]
+}

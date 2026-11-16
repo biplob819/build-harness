@@ -1,0 +1,9 @@
+Build Harness
+Copyright 2026 Biplob Chakraborty
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The harness scripts were first written for the EvalKit project
+(https://github.com/biplob819/evalkit, MIT licence, same author) and generalised here.
+The node-by-node workflow complements GitHub Spec Kit (https://github.com/github/spec-kit, MIT);
+no Spec Kit code is included.

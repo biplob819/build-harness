@@ -1,0 +1,4 @@
+#!/bin/sh
+# Build Harness: run the secret scan and the pre-push command gates before any push.
+# Bypassing this with --no-verify is against the project's constitution.
+exec python3 "$(git rev-parse --show-toplevel)/harness/node_converge.py" --pre-push
