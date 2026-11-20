@@ -3,3 +3,5 @@ __pycache__/
 .harness/
 .DS_Store
 .venv/
+.env*
+!.env.example

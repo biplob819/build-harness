@@ -3,6 +3,8 @@
 **Gates, roles and memory for building real products with Claude Code.**
 The agent writes the code; the harness makes sure it can't build ahead of a dependency, skip a test, push a secret, or make the same mistake twice.
 
+[![Walkthrough: init, a refused node, a failing then passing converge, self-test and evidence](https://raw.githubusercontent.com/biplob819/build-harness/main/docs/assets/walkthrough.gif)](https://github.com/biplob819/build-harness/blob/main/docs/walkthrough.md)
+
 ```text
 /plugin marketplace add biplob819/build-harness
 /plugin install build-harness@build-harness

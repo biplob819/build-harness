@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- README walkthrough GIF (`docs/assets/walkthrough.gif`) with its shot list in `docs/walkthrough.md`: nine real terminal screens from a throwaway demo project made with `scripts/init.py`.
 - README field evidence: commits re-counted on each repo's main branch on 20 Nov 2026 (13,040 across 10 repos). The 16 Nov figure of 6,548 undercounted Insightsflow.
 
 ## 0.1.0 (2026-11-16)
