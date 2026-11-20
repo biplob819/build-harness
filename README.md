@@ -109,7 +109,7 @@ Measured with `scripts/evidence.py` (run it on your own repos to reproduce) acro
 
 | | |
 | --- | --- |
-| Commits | 6,548 across 10 repos (Kova alone: 5,694 since March 2026) |
+| Commits | 13,040 across 10 repos, counted on each repo's main branch on 20 Nov 2026 (Kova 5,769 since March 2026; Insightsflow 6,300; the eight public AI projects 971) |
 | Build-graph nodes | 185 across the eight public build graphs |
 | Capability rows | 1,755, of which 748 are green with proofs |
 | Decisions recorded | 1,751 |

@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- README field evidence: commits re-counted on each repo's main branch on 20 Nov 2026 (13,040 across 10 repos). The 16 Nov figure of 6,548 undercounted Insightsflow.
+
 ## 0.1.0 (2026-11-16)
 
 First public release, extracted from the harness used to build Kova, Insightsflow and eight public AI projects.
